@@ -8,14 +8,14 @@
     - Spring01ApplicationTests.java
 * **timelineservice/src/main/java/com/project/spring_01/**
     - controller
-      Memocontroller.java
+        - Memocontroller.java
     - domain
-      Memo.java
-      MemoRepository.java(Interface)
-      MemoRequestDto.java
-      Timestamped.java
+        - Memo.java
+        - MemoRepository.java(Interface)
+        - MemoRequestDto.java
+        - Timestamped.java
     - service
-      MemoService.java
+        - MemoService.java
 
 * **timelineservice/src/main/resources**
     - index.html 포함한 부가적 요소
